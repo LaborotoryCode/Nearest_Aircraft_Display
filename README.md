@@ -2,6 +2,11 @@
 
 **<ADD HERE>**
 
+# Packages to donwload
+
+1. FlightRadar24 by JeanExtreme002
+2. bs4
+
 # Credit for board:
 
 1. Magnum6Actual
