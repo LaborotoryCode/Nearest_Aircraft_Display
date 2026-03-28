@@ -1,0 +1,9 @@
+{
+  "callsign": "SIA228",
+  "aircraft": "B77W",
+  "origin": "MEL",
+  "destination": "SIN",
+  "altitude_ft": 1250,
+  "speed_knots": 144,
+  "distance_km": 6.64
+}
